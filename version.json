@@ -5,7 +5,16 @@
  "db_size": 64704512,
  "db_url": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/ggen.db",
  "patch_url_base": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/patches/",
- "patches": [],
+ "patches": [
+  {
+   "built_at": 1791471331,
+   "from_built_at": 1791461946,
+   "to": "v2026.10.08",
+   "file": "p_1791471331.sql",
+   "size": 56,
+   "sha256": "348a5cd6fe1df76b2fd0b4abc6505e5d033a6075e627567f31319b1a3801b581"
+  }
+ ],
  "counts": {
   "tags": 124,
   "series": 233,
