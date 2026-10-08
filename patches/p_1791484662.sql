@@ -1,0 +1,6 @@
+-- ggen-data patch @1791484662 (3 rows)
+BEGIN;
+INSERT OR REPLACE INTO "meta" VALUES('built_at','1791484662');
+INSERT OR REPLACE INTO "units" VALUES(1999000100,'极限高达 EXZELIA','极限高达 EXZELIA',4,3,2,0,'1999000000','1999000000','g9990u00100z','',1,1,1,1,0,0,0,0,0,5,57890,284,6004,5150,5782,5,64401,311,6680,5731,6428,5,3,3,3,1,2,'','{"hp": 0, "en": 0, "attack": 0, "defense": 0, "mobility": 0, "movement": 5, "max_hp": 57890, "max_en": 284, "max_attack": 6004, "max_defense": 5150, "max_mobility": 5782, "max_movement": 5, "sp_max_hp": 64401, "sp_max_en": 311, "sp_max_attack": 6680, "sp_max_defense": 5731, "sp_max_mobility": 6428, "sp_max_movement": 5}','{"stats": {"ssp_max_hp": 4567, "ssp_max_en": 23, "ssp_max_attack": 480, "ssp_max_defense": 412, "ssp_max_mobility": 480}, "cores": []}','極限高達 EXZELIA','manual',1791484662,'v2026.10.08',1999000100);
+INSERT OR REPLACE INTO "update_log" VALUES(1,'v2026.10.08',1791484662,'{"type": "full_build", "counts": {"tags": 124, "series": 233, "units": 1441, "characters": 641, "weapons": 5160, "weapon_traits": 18671, "weapon_fx": 21340, "ssp_fx": 15073, "ssp_p3": 3636, "weapon_use": 2695, "fx280010": 103, "weapon_flag": 1306, "abilities": 621, "skills": 69, "effects": 50, "supporters": 90, "mods": 713, "move6": 270, "move7": 13, "default_char": 145, "features": 1679}}','');
+COMMIT;
