@@ -4,6 +4,8 @@
  "db_sha256": "5816cdc41abae8c2424822c2cd4bf44eef4ca010146c32b15b65025354533c15",
  "db_size": 64696320,
  "db_url": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/ggen.db",
+ "patch_url_base": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/patches/",
+ "patches": [],
  "counts": {
   "tags": 124,
   "series": 233,
