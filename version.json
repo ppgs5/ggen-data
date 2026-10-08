@@ -1,7 +1,7 @@
 {
  "version": "v2026.10.08",
- "built_at": 1791485104,
- "db_sha256": "2da9a1a51fe81a43d7b711bf4c58c945d421c56d103a0476f1caf611d592a997",
+ "built_at": 1791488368,
+ "db_sha256": "b052325647a652e074cf20ae581cdc6799c7f2695f1f0bdc40bc33487c2759dc",
  "db_size": 65052672,
  "db_url": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/ggen.db",
  "patch_url_base": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/patches/",
@@ -98,6 +98,26 @@
    "file": "p_1791485104.sql",
    "size": 1353,
    "sha256": "6bbaf48287a55387214c6c6b252b9a129eb88e508d44a8af479464cc380d991d",
+   "images": [
+    {
+     "file": "thumb/thum_g9990c00100z.webp",
+     "sha256": "a8af8744ed0f987ac167cf6e8ef1dc0710926201db68a9d8a3aa5ee572c7fe96",
+     "size": 7394
+    },
+    {
+     "file": "thumb/thum_g9990u00100z.webp",
+     "sha256": "ca37239e832e7ec1bf8c301e96555dcb65d2621cc85c467d7fd00cc1b917eca0",
+     "size": 11582
+    }
+   ]
+  },
+  {
+   "built_at": 1791488368,
+   "from_built_at": 1791485104,
+   "to": "v2026.10.08",
+   "file": "p_1791488368.sql",
+   "size": 7306322,
+   "sha256": "21f03d72004f11a359733f56ee96d2cb51dcebdf3807e7f9f91972bfb3d97d8f",
    "images": [
     {
      "file": "thumb/thum_g9990c00100z.webp",
