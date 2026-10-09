@@ -1,0 +1,24 @@
+-- ggen-data patch @1791557655 (18 rows)
+BEGIN;
+INSERT OR REPLACE INTO "meta" VALUES('built_at','1791557655');
+INSERT OR REPLACE INTO "meta" VALUES('counts','{"tags": 124, "series": 233, "units": 1441, "characters": 641, "weapons": 5160, "weapon_traits": 18671, "weapon_fx": 21355, "ssp_fx": 15073, "ssp_p3": 3636, "weapon_use": 2695, "fx280010": 103, "weapon_flag": 1306, "abilities": 621, "skills": 69, "effects": 50, "supporters": 90, "mods": 713, "move6": 270, "move7": 13, "default_char": 145, "features": 1679}');
+INSERT OR REPLACE INTO "update_log" VALUES(1,'v2026.10.09',1791557655,'{"type": "full_build", "counts": {"tags": 124, "series": 233, "units": 1441, "characters": 641, "weapons": 5160, "weapon_traits": 18671, "weapon_fx": 21355, "ssp_fx": 15073, "ssp_p3": 3636, "weapon_use": 2695, "fx280010": 103, "weapon_flag": 1306, "abilities": 621, "skills": 69, "effects": 50, "supporters": 90, "mods": 713, "move6": 270, "move7": 13, "default_char": 145, "features": 1679}}','');
+DELETE FROM "weapon_fx" WHERE weapon_id='100900055006';
+INSERT INTO "weapon_fx" VALUES(100900055006,1,0,'','范围内的己方恢复HP16%');
+INSERT INTO "weapon_fx" VALUES(100900055006,2,0,'','范围内的己方恢复HP16%');
+INSERT INTO "weapon_fx" VALUES(100900055006,3,0,'','范围内的己方恢复HP16%');
+INSERT INTO "weapon_fx" VALUES(100900055006,4,0,'','范围内的己方恢复HP16%');
+INSERT INTO "weapon_fx" VALUES(100900055006,5,0,'','范围内的己方恢复HP16%');
+DELETE FROM "weapon_fx" WHERE weapon_id='113900010004';
+INSERT INTO "weapon_fx" VALUES(113900010004,1,0,'','范围内的己方MP增加3');
+INSERT INTO "weapon_fx" VALUES(113900010004,2,0,'','范围内的己方MP增加3');
+INSERT INTO "weapon_fx" VALUES(113900010004,3,0,'','范围内的己方MP增加3');
+INSERT INTO "weapon_fx" VALUES(113900010004,4,0,'','范围内的己方MP增加3');
+INSERT INTO "weapon_fx" VALUES(113900010004,5,0,'','范围内的己方MP增加3');
+DELETE FROM "weapon_fx" WHERE weapon_id='133000590003';
+INSERT INTO "weapon_fx" VALUES(133000590003,1,0,'','范围内的己方MP增加3');
+INSERT INTO "weapon_fx" VALUES(133000590003,2,0,'','范围内的己方MP增加3');
+INSERT INTO "weapon_fx" VALUES(133000590003,3,0,'','范围内的己方MP增加3');
+INSERT INTO "weapon_fx" VALUES(133000590003,4,0,'','范围内的己方MP增加3');
+INSERT INTO "weapon_fx" VALUES(133000590003,5,0,'','范围内的己方MP增加3');
+COMMIT;
