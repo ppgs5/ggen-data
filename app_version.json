@@ -1,9 +1,9 @@
 {
- "version": "0.96",
+ "version": "0.101",
  "size": 24493263,
- "sha256": "44632f148ea5d3588ecc879a160782aedc481deae7e5dee041af9608ad55a31d",
- "apk_url": "https://github.com/ppgs5/ggen-data/releases/download/v0.96/SDGGE-Helper-v0.96.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/ggen-data/releases/download/v0.96/SDGGE-Helper-v0.96.apk",
- "note": "v0.96 更新包（24.5 MB），下载完成后弹系统安装界面。",
- "updated_at": 1791636698
+ "sha256": "c7287aa39dc15ec640c47452af7efb73d1f6af66f95a135031686608055eea41",
+ "apk_url": "https://github.com/ppgs5/ggen-data/releases/download/v0.101/SDGGE-Helper-v0.101.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/ggen-data/releases/download/v0.101/SDGGE-Helper-v0.101.apk",
+ "note": "v0.101 更新包（24.5 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1791637551
 }
