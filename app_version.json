@@ -1,11 +1,17 @@
 {
- "version": "0.101",
+ "version": "0.102",
  "size": 24493263,
- "sha256": "dc2f0a55f61a126cd4b9865ec82789e2868b6d81daaaa55041b06ee1240256e4",
- "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.101/SDGGE-Helper-v0.101.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.101/SDGGE-Helper-v0.101.apk",
+ "sha256": "fc451ca11ddeb80a5cac3d8c5346e90ef97bb2655f135a95734bc48c07d48c1f",
+ "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.102/SDGGE-Helper-v0.102.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.102/SDGGE-Helper-v0.102.apk",
+ "apk_urls": [
+  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.102/SDGGE-Helper-v0.102.apk",
+  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.102/SDGGE-Helper-v0.102.apk",
+  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.102/SDGGE-Helper-v0.102.apk",
+  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.102/SDGGE-Helper-v0.102.apk"
+ ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "v0.101 更新包（24.5 MB），下载完成后弹系统安装界面。",
- "updated_at": 1791638858
+ "note": "v0.102 更新包（24.5 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1791639236
 }
