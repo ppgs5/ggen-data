@@ -1,17 +1,17 @@
 {
- "version": "0.103",
- "size": 24497359,
- "sha256": "756440b3a3c9e81065df9a2def32d29802f70676d7464b5ea99fd640c63bafef",
- "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.103/SDGGE-Helper-v0.103.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.103/SDGGE-Helper-v0.103.apk",
+ "version": "0.104",
+ "size": 24534223,
+ "sha256": "0659e8a5f67a932700e220ee2b90baefd718a6304f952622a18a35587d596605",
+ "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
  "apk_urls": [
-  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.103/SDGGE-Helper-v0.103.apk",
-  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.103/SDGGE-Helper-v0.103.apk",
-  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.103/SDGGE-Helper-v0.103.apk",
-  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.103/SDGGE-Helper-v0.103.apk"
+  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
+  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
+  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
+  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk"
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "【v0.103 更新内容】\n• 新增「首动」按钮(计算/组队/排行): 按官方AI优先度只算首动那1个技能的伤害 — 减伤(威力抵御)>+MP(首动超一击+30%)>+命中闪避>攻击爆裂(+损伤%)>摇摆闪避>增幅(按对应属性武器, 随机体/武器变化)>爆击增幅>保留EN; 假设满血满EN·够得着\n• 「反死风险」独立开关: 假设会被反杀 — 命中闪避挤掉攻击爆裂\n• 主动技能⇄首动 二选一; 首动/第一击模式下「多段增益」锁定(仅全技能可开)\n• 更新中心新增「APP 更新说明」(只显示最新版)\nv0.103 更新包（24.5 MB），下载完成后弹系统安装界面。",
- "updated_at": 1791656498
+ "note": "【v0.104 更新内容】\n• 组队页「队伍增强」新增自定义增强(标签/系列多选 + 全能力增强%，勾选生效，计入全部TOP计算)\n• 修复组队页全能力增强对基础值错误生效的bug（与舰长/队伍增强同口径）\n• 7移动标签改名「支援防御范围7」；6移动/支援防御范围7 行内显示地形适性\n• 特性「标签/系列」弹窗新增出击场地筛选（×不能出击的机体不入列）\n• 组队防御型TOP(输出/eHP)与进攻盾TOP 绿色数值下显示迷你地形\n• 形态机(MA/分离/脱出/变形)地形适性继承本体补齐\n• 权限精简: 移除未使用的 ACCESS_NETWORK_STATE，仅保留 2 项权限\n• 更新中心: 版本号下显示安装包SHA256(动态校验)、关于页新增免责条款\nv0.104 更新包（24.5 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1791709406
 }
