@@ -1,17 +1,17 @@
 {
- "version": "0.104",
- "size": 24534223,
- "sha256": "0659e8a5f67a932700e220ee2b90baefd718a6304f952622a18a35587d596605",
- "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
+ "version": "0.105",
+ "size": 24546511,
+ "sha256": "c45fbe299fdce276bb05291cdbd9f61eca47ba130bdaa026fbc5bc6e873f66ae",
+ "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.105/SDGGE-Helper-v0.105.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.105/SDGGE-Helper-v0.105.apk",
  "apk_urls": [
-  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
-  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
-  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk",
-  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.104/SDGGE-Helper-v0.104.apk"
+  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.105/SDGGE-Helper-v0.105.apk",
+  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.105/SDGGE-Helper-v0.105.apk",
+  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.105/SDGGE-Helper-v0.105.apk",
+  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.105/SDGGE-Helper-v0.105.apk"
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "【v0.104 更新内容】\n• 组队页「队伍增强」新增自定义增强(标签/系列多选 + 全能力增强%，勾选生效，计入全部TOP计算)\n• 修复组队页全能力增强对基础值错误生效的bug（与舰长/队伍增强同口径）\n• 7移动标签改名「支援防御范围7」；6移动/支援防御范围7 行内显示地形适性\n• 特性「标签/系列」弹窗新增出击场地筛选（×不能出击的机体不入列）\n• 组队防御型TOP(输出/eHP)与进攻盾TOP 绿色数值下显示迷你地形\n• 形态机(MA/分离/脱出/变形)地形适性继承本体补齐\n• 权限精简: 移除未使用的 ACCESS_NETWORK_STATE，仅保留 2 项权限\n• 更新中心: 版本号下显示安装包SHA256(动态校验)、关于页新增免责条款\nv0.104 更新包（24.5 MB），下载完成后弹系统安装界面。",
- "updated_at": 1791709406
+ "note": "【v0.105 更新内容】\n• 武器数据全量收录(5165把): 消耗HP/MP、使用地点(宇宙/空中/地面/水面/水下)、战意限定、水下倍率 — 在线补丁更新, 不重装即生效\n• 暴击: 暴击率100%(含必暴技能/武器)无视开关按暴击计, 武器/驾驶员行「必暴」标注, 必暴组合含MP技能标注与排序\n• 条件被动「注明」: 对特定标签/系列对手生效的机体/机师/武器被动, 计算/排行/组队 均标注「条件:…」(与计入口径一致)\n• 特性页「特攻」: 列出全部对特定对手生效的机体与机师(含屏蔽ULT开关)\n• 计算/排行/组队 驾驶员类型标记(攻击/防御/支援)\n• 组队大改版: 选目标机体+机师; 「受 X 剩Y%」; 后两TOP(防御型eHP/进攻盾)按剩余HP排序; 单/双/全部支援防御档位; 支援防御移动力显示; 我方/目标 攻击·防御·HP 三项增强(与目标全能力叠加); 防御盾筛选; 双向对称校核\n• 防御侧被动按生效条件判定 + 5/6 TOP 行尾注明生效条件(如 敌「红色」减伤10%); 战意「超强势以上」口径修复\n• ULT机体=固定值(修复组队/计算页曾被误乘1.4致虚高); 「优势」类敌方驾驶员标签被动未选敌方时只计最高一项\n• 首动: MP提升仅自身MP≥3时释放; 驾驶员MP按SP槽替换(修复刹那SR等重复计入); 全库被动描述占位符清理\nv0.105 更新包（24.5 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1792162684
 }
