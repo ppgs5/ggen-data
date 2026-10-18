@@ -1,17 +1,17 @@
 {
- "version": "0.107",
- "size": 24677583,
- "sha256": "a5382c7be471ee6921a87166d1626acf3e62a71e92439a881b933af72d9093fa",
- "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.107/SDGGE-Helper-v0.107.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.107/SDGGE-Helper-v0.107.apk",
+ "version": "0.108",
+ "size": 24698063,
+ "sha256": "67b54a694906a526471b2a0e32c9a02c9fed466582d59087ac4a6baad19b9c2a",
+ "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.108/SDGGE-Helper-v0.108.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.108/SDGGE-Helper-v0.108.apk",
  "apk_urls": [
-  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.107/SDGGE-Helper-v0.107.apk",
-  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.107/SDGGE-Helper-v0.107.apk",
-  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.107/SDGGE-Helper-v0.107.apk",
-  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.107/SDGGE-Helper-v0.107.apk"
+  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.108/SDGGE-Helper-v0.108.apk",
+  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.108/SDGGE-Helper-v0.108.apk",
+  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.108/SDGGE-Helper-v0.108.apk",
+  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.108/SDGGE-Helper-v0.108.apk"
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "v0.107 综合更新\n• ULT改造：ULT机体三段(SSR/UR/UR)共用同一套改造，开关分0/50/100；Lv50解锁该段ULT改造武器，Lv100解锁每组三选一能力(攻击爆裂+20%伤害/威力抵御-20%受伤/支援攻防次数+1/MP+6等)；图鉴新增ULT改造能力卡。\n• 计算/排行/组队：新增「支援攻击/反击」开关(关闭时不计支援攻击/支援反击/反击被动)；新增max满层开关(条件被动按1层；max按最高N%满层，含同部队每有/对战次数；首动攻击次数型恒0层)；组队攻击行绿色伤害下显示攻击力；组队防御eHP计入机体「最大HP提升」能力。\n• 图鉴：再生高达EX等45台补齐原配机师；数值档位新增说明(max含条件型/满层)；武器效果文本改按武器特质名显示(再生EX GN翼状獠牙=特殊、TRANS-AM EX=光束，不再用武器属性猜测)。\n• 数据：主数据更新至2026.10.17；与游戏2.7.0导出逐项对账，修正防御/回避标志、形态机地形、零件系列名。\n• 修复计算页best对象被行内注释吞字段导致的页面错误。\nv0.107 更新包（24.7 MB），下载完成后弹系统安装界面。",
- "updated_at": 1792244477
+ "note": "综合更新：① 装置(機構)主数据接入 — 1128条/1027台/5种(防护盾防御848、变形机构260、逃生机能6、逃生机能(超强势)10、换装4)，图鉴详情新增「装置」区(名称/数值/完整说明) ② 第一击损伤无效标记(不限ULT：高达F91双V.S.B.R(EX)、超级海伯瑞安)，仅标记、伤害照常计算，特性页新增该分类 ③ 特性页MP新增「机体(主动MP)」区块 — 线性扫机体技能，V2突击暴风EX +3、卡斯巴尔专用高达 +6 ④ 防御eHP纳入机体被动防御%(含max满层，行内显示「防+X%」)，并修复条件被动1层判定bug(原恒为0层) ⑤ 主数据对账：地形1455台全一致、标签1454台中18台差异(wiki多出机体族标签) ⑥ 组队「选择防御/支援防御」改为二选一 — 原两者同开减伤叠加到100%(重复计算)，现互斥只取一次-40%；盾牌-20%对两者均生效\nv0.108 更新包（24.7 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1792284751
 }
