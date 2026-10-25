@@ -1,7 +1,7 @@
 {
- "version": "v2026.10.18",
- "built_at": 1792284669,
- "db_sha256": "10f23d8545079729902cdf733ac7b29fe03d5c2e003123a967e940ad75c7018d",
+ "version": "v2026.10.25",
+ "built_at": 1792920416,
+ "db_sha256": "246b8a44283d657d50fbb9042e5f72757fad0f6891ef486b9f7ffd590427a7e5",
  "db_size": 68399104,
  "db_url": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/ggen.db",
  "patch_url_base": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/patches/",
@@ -430,11 +430,19 @@
      "size": 11582
     }
    ]
+  },
+  {
+   "built_at": 1792920416,
+   "from_built_at": 1792284669,
+   "to": "v2026.10.25",
+   "file": "p_1792920416.sql",
+   "size": 7508396,
+   "sha256": "e3e9c2f5312b072941aaab526fd82da01b50b3e8679c3625bf12b154ed4776e6"
   }
  ],
  "counts": {
   "tags": 125,
-  "series": 236,
+  "series": 115,
   "units": 1454,
   "characters": 650,
   "weapons": 5230,
