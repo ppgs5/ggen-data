@@ -1,17 +1,17 @@
 {
- "version": "0.109",
- "size": 24698063,
- "sha256": "1c69cfc59455d93c70087bcf41d56bbdb0a6490035bdcfe4a840666bf0cee6f1",
- "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.109/SDGGE-Helper-v0.109.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.109/SDGGE-Helper-v0.109.apk",
+ "version": "0.110",
+ "size": 24755407,
+ "sha256": "a03bab5594a893af3f1aa7e183116d60ecf7106d58860808a3d74d0fb4471eee",
+ "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
  "apk_urls": [
-  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.109/SDGGE-Helper-v0.109.apk",
-  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.109/SDGGE-Helper-v0.109.apk",
-  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.109/SDGGE-Helper-v0.109.apk",
-  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.109/SDGGE-Helper-v0.109.apk"
+  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
+  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
+  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
+  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk"
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "综合更新：① 自定义增强按标签/系列 ID 精确匹配，并遵循「全部命中/任一命中」— 修复选「试作机+重击」时没有该标签的机体(如 D高达3号机)也吃到加成 ② 标签/系列按游戏主数据全面核对修复 — series 表 237→114(修正 1010=DOUBLE FAKE、1100=逆袭的夏亚 等被标签名污染的条目)，1454 台机体重算主系列/系列集，清理 123 个假系列，标签按主数据双向校准（补回「大魔」等真实标签、清除与主数据不符的 26 对） ③ 机体图鉴详情分开显示「标签」「系列」两行 — 系列含主系列(高亮)+系列集，点击可直接筛选 ④ 系列筛选改为「主系列 或 系列集」命中，图鉴/组队/排行/特性 四页统一 — D高达3号机按《机动战士高达 逆袭的夏亚》也能筛到 ⑤ 系列选择器计数同步按系列集去重 ⑥ 数据以游戏导出为准：清理手工重复录入的「极限高达 EXZELIA」(旧 id 1999000100)，统一为游戏主数据 id 1795000100，名称与面板同步\nv0.109 更新包（24.7 MB），下载完成后弹系统安装界面。",
- "updated_at": 1792920778
+ "note": "v0.110 更新包（24.8 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1793152766
 }
