@@ -1,8 +1,8 @@
 {
- "version": "v2026.10.31",
- "built_at": 1793431222,
- "db_sha256": "654da35570f5f54fd08323a1a6361c725e2985b6f1fe48c01826411f95c134d6",
- "db_size": 68997120,
+ "version": "v2026.11.01",
+ "built_at": 1793464370,
+ "db_sha256": "3254880edf8b3dff425720fa2daf1e528d33e17c3c945af95b1e302b11b2655b",
+ "db_size": 69021696,
  "db_url": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/ggen.db",
  "patch_url_base": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/patches/",
  "patches": [
@@ -494,13 +494,28 @@
      "size": 6112
     }
    ]
+  },
+  {
+   "built_at": 1793464370,
+   "from_built_at": 1793431222,
+   "to": "v2026.11.01",
+   "file": "p_1793464370.sql",
+   "size": 25403,
+   "sha256": "37a95d7fa9316d6b27dc3b8f3e6fec9fadf4d8f8bdbba6a19cfa11d41f2e5f5e",
+   "images": [
+    {
+     "file": "thumb/thum_g1250c00301.webp",
+     "sha256": "6a5434a3aa343be115f346ec21df85a8b63167e6c2f1ad2bee1ab39231f6ece2",
+     "size": 8144
+    }
+   ]
   }
  ],
  "counts": {
   "tags": 125,
   "series": 116,
   "units": 1458,
-  "characters": 653,
+  "characters": 655,
   "weapons": 5248,
   "weapon_traits": 18991,
   "weapon_fx": 21355,
@@ -518,7 +533,7 @@
   "mods": 717,
   "move6": 273,
   "move7": 13,
-  "default_char": 145,
+  "default_char": 194,
   "features": 1700,
   "char_series": 1468
  }
