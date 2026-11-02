@@ -1,6 +1,6 @@
 {
  "version": "v2026.11.01b",
- "built_at": 1793619025,
+ "built_at": 1793619152,
  "db_sha256": "3254880edf8b3dff425720fa2daf1e528d33e17c3c945af95b1e302b11b2655b",
  "db_size": 69021696,
  "db_url": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/ggen.db",
@@ -621,6 +621,14 @@
    "file": "p_1793619025.sql",
    "size": 28516,
    "sha256": "66aab4054bb1524341b60dbb9baa8deeff5aa7c76ca623194852daf7a428bf58"
+  },
+  {
+   "built_at": 1793619152,
+   "from_built_at": 1793619025,
+   "to": "v2026.11.01b",
+   "file": "p_1793619152.sql",
+   "size": 2035267,
+   "sha256": "064d3cc09fce283afc3289abdcf1673da4c382504af0e6f80e012b8f399a43cb"
   }
  ],
  "counts": {
