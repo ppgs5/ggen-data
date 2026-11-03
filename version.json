@@ -1,8 +1,8 @@
 {
  "version": "v2026.11.01b",
  "built_at": 1793728880,
- "db_sha256": "3254880edf8b3dff425720fa2daf1e528d33e17c3c945af95b1e302b11b2655b",
- "db_size": 69021696,
+ "db_sha256": "3f4917db1f02175568e2910ac957c32503a05720f21d7d20d7179a94fbf86418",
+ "db_size": 69046272,
  "db_url": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/ggen.db",
  "patch_url_base": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/patches/",
  "patches": [
