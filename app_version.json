@@ -1,7 +1,7 @@
 {
  "version": "0.111",
  "size": 24895259,
- "sha256": "ef778a2fbe4af57fe458595282b8747ef48512a0e6765ad5ad2f06d7b1ffef16",
+ "sha256": "cf408c60324f5fad56795b149e6f5c645ed2aeb0028d818196a25afb0903e1b5",
  "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk",
  "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk",
  "apk_urls": [
@@ -12,6 +12,6 @@
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "v0.111\n· 射程被动生效（区分武装属性，MAP 除外）\n· 条件按战意/搭乘机体严格判定\n· 组队射程筛选按实际驾驶员，6+ 表示 ≥6\n· 同步 10-31 调整与文案修正\nv0.111 更新包（24.9 MB），下载完成后弹系统安装界面。",
- "updated_at": 1793903808
+ "note": "· 图鉴新增被动/主动技能搜索：按效果文本或技能名查，可跳转筛出对应机体/技师\n· 组队射程筛选按该行实际驾驶员计算，6+ 表示 ≥6\n· 启动直接读取上次计算结果，不再每次重算\n· 计算页与组队页气势/MP 设置同步，标题显示实际目标\n· 战舰 Support 技能显示全部效果\n· 数据同步至 2026-11-06 版本（内嵌库与线上一致）\nv0.111 更新包（24.9 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1793908710
 }
