@@ -1,17 +1,17 @@
 {
- "version": "0.110",
- "size": 24784079,
- "sha256": "b58c49aeb43b8bd7ec90f28dda1f675d89a5bee968adf4bc2bdb2b72a6ebfd34",
- "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
+ "version": "0.111",
+ "size": 24895259,
+ "sha256": "ef778a2fbe4af57fe458595282b8747ef48512a0e6765ad5ad2f06d7b1ffef16",
+ "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk",
  "apk_urls": [
-  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
-  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
-  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk",
-  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.110/SDGGE-Helper-v0.110.apk"
+  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk",
+  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk",
+  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk",
+  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk"
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "v0.110 更新包（24.8 MB），下载完成后弹系统安装界面。",
- "updated_at": 1793344258
+ "note": "· 射程被动生效（区分武装属性，MAP 除外）\n· 条件按战意/搭乘机体严格判定\n· 组队射程筛选按实际驾驶员，6+ 表示 ≥6\n· 同步 10-31 调整与文案修正\nv0.111 更新包（24.9 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1793903656
 }
