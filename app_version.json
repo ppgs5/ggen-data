@@ -1,7 +1,7 @@
 {
  "version": "0.111",
  "size": 24895321,
- "sha256": "4eac8cb420da634b8fcd3f2c039138567c9bd0e99195c4cca88552072584b16d",
+ "sha256": "a88fe0bb0fc819a00d6ee317876fe7dfe5c9660b4bb7f761c83c0cbc6419123e",
  "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk",
  "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.111/SDGGE-Helper-v0.111.apk",
  "apk_urls": [
@@ -12,6 +12,6 @@
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "· 图鉴新增被动/主动技能搜索：按效果文本或技能名查，可跳转筛出对应机体/技师\n· 组队射程筛选按该行实际驾驶员计算，6+ 表示 ≥6\n· 启动直接读取上次计算结果，不再每次重算\n· 计算页与组队页气势/MP 设置同步，标题显示实际目标\n· 战舰 Support 技能显示全部效果\n· 数据同步至 2026-11-06 版本（内嵌库与线上一致）\nv0.111 更新包（24.9 MB），下载完成后弹系统安装界面。",
- "updated_at": 1793910049
+ "note": "· 图鉴新增被动/主动技能搜索：按效果文本或技能名查，可跳转筛出对应机体/技师\n· 组队射程筛选按该行实际驾驶员计算，6+ 表示 ≥6\n· 启动直接读取上次计算结果，不再每次重算\n· 计算页与组队页气势/MP 设置同步，标题显示实际目标\n· 战舰 Support 技能显示全部效果\n· 修复机师伤害排行属性前缀（射击/格斗/觉醒按实际最高项）\n· 修复武器「POWER提升」效果重复计算（如洗牌同盟拳 EX 8,280→9,936，原误算 11,592）\n· 数据同步至 2026-11-06 版本（内嵌库与线上一致）\nv0.111 更新包（24.9 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1793938325
 }
