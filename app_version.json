@@ -1,17 +1,17 @@
 {
- "version": "0.112",
- "size": 25044373,
- "sha256": "987b8426f71595e68037e411ab794b7910f4e7010f4d02bb03e7ad48d6ea6fe0",
- "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.112/SDGGE-Helper-v0.112.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.112/SDGGE-Helper-v0.112.apk",
+ "version": "0.113",
+ "size": 25399989,
+ "sha256": "5a29a30633a50dc308ea03ca7fa5ab7715add71f15f20ea5165401bd927fe5ed",
+ "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
  "apk_urls": [
-  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.112/SDGGE-Helper-v0.112.apk",
-  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.112/SDGGE-Helper-v0.112.apk",
-  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.112/SDGGE-Helper-v0.112.apk",
-  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.112/SDGGE-Helper-v0.112.apk"
+  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
+  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
+  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
+  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk"
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "· 新增 11-18 版本数据：机体 +26、机师 +12、战舰 +1、武器 +105（含能力/技能/标签/装置）\n· 系列与标签按游戏主数据校正：新增 DUAL STORY G-UNIT、PX系统，统一 28 个标签名\n· MAP 形状改为直接读取游戏主数据（m_weapon_status 射击/伤害范围）\n· SSP 改装核心等级可切换 10/15/20：武器解锁与数值增量随等级变化\nv0.112 更新包（25.0 MB），下载完成后弹系统安装界面。",
- "updated_at": 1794994731
+ "note": "· 新版本数据完整落地：机体 +26、机师 +12、战舰 +1、武器 +105（能力/技能/标签/装置/系列全部按游戏主数据对齐）\n· 头像补齐：站点直下 23 个 + gamewith 抓取 6 个 + 同名暂替 9 个 + 截图裁切 4 个，新机体/机师头像 0 缺失\n· MAP 武器形状改从游戏主数据 m_weapon_status 生成，283 把 0 缺失；删除 2 把主数据无引用的孤立 MAP\n· SSP 改装核心：可切换 10/15/20 档，武器解锁与数值增量随等级变化\nv0.113 更新包（25.4 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1795002519
 }
