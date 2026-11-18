@@ -1,7 +1,7 @@
 {
  "version": "v2026.11.01b",
- "built_at": 1794992190,
- "db_sha256": "e4dada5ba1fa32aa034a887011c3a44c3e9c0506be4e481257426ef360a3779c",
+ "built_at": 1794994701,
+ "db_sha256": "d4d42b394cdf75ce4c86ca54fe40047fb71fefc6fa1cc8860b8645c48ac9fbff",
  "db_size": 81838080,
  "db_url": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/ggen.db",
  "patch_url_base": "https://raw.githubusercontent.com/ppgs5/ggen-data/main/patches/",
@@ -898,6 +898,14 @@
    "file": "p_1794992190.sql",
    "size": 396399,
    "sha256": "fe934ce95aac03ed34903547661cbaa42868c2828b7982d379459df1eaa7764c"
+  },
+  {
+   "built_at": 1794994701,
+   "from_built_at": 1794992190,
+   "to": "v2026.11.01b",
+   "file": "p_1794994701.sql",
+   "size": 526280,
+   "sha256": "1c1ccd5022733b25ba3b8bfc0e9a0f50b886a91de4e3d449447b0b65702ce62f"
   }
  ],
  "counts": {
