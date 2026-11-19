@@ -1,17 +1,17 @@
 {
- "version": "0.113",
- "size": 25399989,
- "sha256": "5a29a30633a50dc308ea03ca7fa5ab7715add71f15f20ea5165401bd927fe5ed",
- "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
+ "version": "0.114",
+ "size": 25416373,
+ "sha256": "155341de78a46342c21cc78e97fb63836c84ebcd63a4e6856321d18f076bd18b",
+ "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
  "apk_urls": [
-  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
-  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
-  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk",
-  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.113/SDGGE-Helper-v0.113.apk"
+  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
+  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
+  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
+  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk"
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "· 新版本数据完整落地：机体 +26、机师 +12、战舰 +1、武器 +105\n· 头像补齐：站点 23 + gamewith 6 + 暂替 9 + 截图 4，0 缺失\n· MAP 形状按游戏主数据生成，283 把 0 缺失\n· SSP 改装核心 10/15/20 档切换\nv0.113 更新包（25.4 MB），下载完成后弹系统安装界面。",
- "updated_at": 1795002644
+ "note": "· 修正被动条件判定：「标签及系列」改为 AND（两者都要），修复 EX角色能力被错误套用到不匹配机体（如达利·尼艾尔·甘兹 对 SEED 机体）\n· 武器效果芯片改可读短名：「效果#113 +17%」→「EN越高POWER提升 +17%」\nv0.114 更新包（25.4 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1795102091
 }
