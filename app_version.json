@@ -1,17 +1,17 @@
 {
- "version": "0.114",
+ "version": "0.115",
  "size": 25416373,
- "sha256": "155341de78a46342c21cc78e97fb63836c84ebcd63a4e6856321d18f076bd18b",
- "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
- "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
+ "sha256": "f7d8d16e7ef935b89ab74192b2d7704d4ec0d5b55f36ab196dd05f914f93efb2",
+ "apk_url": "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.115/SDGGE-Helper-v0.115.apk",
+ "apk_mirror": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.115/SDGGE-Helper-v0.115.apk",
  "apk_urls": [
-  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
-  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
-  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk",
-  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.114/SDGGE-Helper-v0.114.apk"
+  "https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.115/SDGGE-Helper-v0.115.apk",
+  "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.115/SDGGE-Helper-v0.115.apk",
+  "https://ghproxy.net/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.115/SDGGE-Helper-v0.115.apk",
+  "https://gh.llkk.cc/https://github.com/ppgs5/SDGGE-Helper/releases/download/v0.115/SDGGE-Helper-v0.115.apk"
  ],
  "repo": "https://github.com/ppgs5/SDGGE-Helper",
  "mirror_page": "https://gh-proxy.com/https://github.com/ppgs5/SDGGE-Helper",
- "note": "· 修正被动条件判定：「标签及系列」改为 AND（两者都要），修复 EX角色能力被错误套用到不匹配机体（如达利·尼艾尔·甘兹 对 SEED 机体）\n· 武器效果芯片改可读短名：「效果#113 +17%」→「EN越高POWER提升 +17%」\nv0.114 更新包（25.4 MB），下载完成后弹系统安装界面。",
- "updated_at": 1795102091
+ "note": "· 特性列表显示加成驾驶员名字\n· 移动6/7 特性改为按条件校验驾驶员：原先误把「需搭乘指定机体/标签」的移动加成当成通用（如达里尔·洛伦兹的「再生精神感应装置」条件），现按同系列有效驾驶员标注（索莉丝·阿尔摩尼亚 / 露娜·阿尔摩尼亚）\n· 补齐本次新机体/机师的特性行（盾/变形/支援/额外行动/移动6-7）\nv0.115 更新包（25.4 MB），下载完成后弹系统安装界面。",
+ "updated_at": 1795168008
 }
